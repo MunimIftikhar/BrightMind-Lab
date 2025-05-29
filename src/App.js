@@ -7,7 +7,7 @@ function App() {
               <div className="container">
         {/* <!-- Flash Banner --> */}
         <div className="flash-banner">
-            🔥 LIMITED TIME: 50% OFF First Month + FREE Trial className | Only 20 Spots Available This Month!
+            🔥 LIMITED TIME: 50% OFF First Month + FREE Trial | Only 20 Spots Available This Month!
         </div>
         
         {/* <!-- Header Section --> */}
@@ -80,7 +80,7 @@ function App() {
             </div>
             
             <div className="special-highlight">
-                <strong>Ages 8-20 • Small classNamees (Max 6 Students) • English Communication Included</strong>
+                <strong>Ages 6-20 • Small classNamees (Max 6 Students) • English Communication Included</strong>
             </div>
         </div>
         
@@ -183,7 +183,7 @@ function App() {
                 <div style={{fontSize: "18px", fontWeight: "bold"}}>EARLY BIRD SPECIAL ENDS IN:</div>
                 <div style={{fontSize: "24px", marginTop: "10px"}}>🕐 7 DAYS REMAINING</div>
             </div>
-            <p style={{fontSize: "18px"}}>12 spots already taken - Don't let your child miss out!</p>
+            // <p style={{fontSize: "18px"}}>12 spots already taken - Don't let your child miss out!</p>
         </div>
         
         {/* <!-- Contact Section --> */}
