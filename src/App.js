@@ -189,7 +189,7 @@ function App() {
         {/* <!-- Contact Section --> */}
         <div className="contact-section">
             <h2 className="contact-title">SECURE YOUR CHILD'S FUTURE TODAY</h2>
-            <div className="phone-number">📞 +92 333 445 1805</div>
+            <div className="phone-number">📞 +923390085730</div>
             
             <div className="contact-methods">
                 <div className="contact-method">
